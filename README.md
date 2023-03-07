@@ -1,2 +1,2 @@
 # DSA
-Algorithms and Data Structures in Pytoh
+Algorithms and Data Structures in Python
